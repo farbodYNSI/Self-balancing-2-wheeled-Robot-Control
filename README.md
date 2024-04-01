@@ -1,1 +1,1 @@
-# Self-balancing-2-wheeled-Robot-Control
+This project focuses on the design and implementation of a control system for a self-balancing two-wheeled robot. The objective is to develop a controller that stabilizes the robot in an upright position by dynamically adjusting the motor inputs based on sensor feedback. The project encompasses several key components, including system modeling, controller design, simulation, hardware implementation, and performance evaluation.
